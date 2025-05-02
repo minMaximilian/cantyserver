@@ -1,0 +1,13 @@
+name = "Cantyvanilla"
+author = "max"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "438675ffdfd611e44c9d434b4bbc9fbbad2c4d39f6c0ad66f3224aac21b756fb"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.5"
