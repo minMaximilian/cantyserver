@@ -16,6 +16,11 @@ hash = "a463f60553d19dc6cdb468e8a0f9faa73fd6694f8eb87fe11532c81e9c908dcf"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "f8c3316d70783795c5804f914b06e093477e8b4e9b3780721e960075341cce5b"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "978562898ce05c60eb888a6d4222e8722ba0c5062599c955f6137e8c6ca5941c"
 metafile = true
@@ -66,6 +71,11 @@ hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "05ba97e8318046da6b4ea4669da8f848fb4981516a8342b6e7b272eba320c587"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "623f91f5cb2cfe0e7c3a6fc48ae5984dfad62e85389e2567ab5421f7d9d02c51"
 metafile = true
@@ -73,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "3c99ce9501ba667070c8cb9a44adfcef91b071983d3ab565acb11cca93469820"
 metafile = true
 
 [[files]]
@@ -107,12 +122,17 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "971c19f9973cfbe98103f091734b25e9dfc5c7dba7cb3905021133ee6653abc9"
+hash = "fb968012652cc09eddfcd7972cc6162cb05364f73eeed5b3e90609c0a608bfa5"
 metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "3975d8351b1a246c8c2e13251ea4f86fee525ae772a51927c37407a88b03defb"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "f4ed28d8b0a88eb80a17b3ff6518402973060ce2f802daab5971fc26a79199db"
 metafile = true
 
 [[files]]
@@ -143,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "c6882c758dc6cadb98d476f199cad6aaccd1664ea4bd1bcfbf94afd496815a7c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "46ab58f542323ab1bc92744d9ddd6ff0ba277a5c6250730bb88ba6ff2e101da7"
 metafile = true
 
 [[files]]
